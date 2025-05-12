@@ -61,7 +61,7 @@ function App() {
         </div>
 
         <div className="mb-3">
-          <p><i className="bi bi-building text-warning"></i> Local: Restaurante [Nome do Restaurante]</p>
+          <p><i className="bi bi-building text-warning"></i> Local: Restaurante Emporio</p>
         </div>
 
         <div className="form-group mt-3 mb-4">
